@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 import { MainLayouts } from '../../components/layouts/MainLayouts'
 
-export default  () => {
+export default function Pricing() {
   return (
     <MainLayouts>
       
