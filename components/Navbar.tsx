@@ -1,6 +1,6 @@
 
 import { ActiveLink } from './ActiveLink';
-import style from './Navbar.module.css';
+import style from './NavBar.module.css';
 
 
 export const NavBar = () => {
